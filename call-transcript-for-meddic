@@ -1,1 +1,400 @@
-New transcript
+**John Smith | 00:00**  
+Nick, I'm fine, sorry for being late.
+
+**Nick Black | 00:00**  
+Hey, John, how are you doing?
+
+**John Smith | 00:04**  
+Was stuck in the meeting before as usual, so IWI [Laughter] no problem.
+
+**Nick Black | 00:04**  
+No problem. Sorry for being very late myself. So sorry, I completely missed it last week.
+
+**John Smith | 00:12**  
+No problem. So I need to switch on my camera. I'm in the office today, and then I'm usually using just two screens in front of me and have no web camera.
+
+**Nick Black | 00:18**  
+Okay, yeah, me too. I'm in the office.
+
+**John Smith | 00:26**  
+So I need to open my notebook to have a camera.
+
+**Nick Black | 00:30**  
+Do some readjustment.
+
+**John Smith | 00:31**  
+But it's working.
+
+**Nick Black | 00:32**  
+Yeah, cool. Well, I just wanted to follow up because I thought it was a really good introduction call that we had a couple of weeks ago, and I wanted to dive a little bit deeper on that.
+
+I mean, essentially... And I thought it'd be handy for us to connect one on one, you know? So I'm new here at **Company A** and sort of getting the lay of the land. What I'm really trying to figure out is how imminent the need for enhanced security is for **Company B**.  
+
+So I think we had a good conversation last time when it was clear that strategically, in a three-year vision, there's no doubt about it—this type of device security is important. What I'm trying to work out is in the next six to twelve months, how do you see this playing out?
+
+And that's kind of what I was hoping to talk a bit about today.
+
+---
+
+**John Smith | 01:25**  
+Be urged to be frank.
+
+**Nick Black | 01:29**  
+Sorry, let's see if the network's dropping.
+
+**John Smith | 01:37**  
+I think the customers...
+
+**Nick Black | 01:38**  
+Hey.
+
+**John Smith | 01:39**  
+And yeah, okay, maybe we should switch off the camera to reduce bandwidth.
+
+**Nick Black | 01:39**  
+Sorry, John. The network dropped, then I've got you now, but the network dropped. Yeah, I'm with you. Yeah, I've changed. Yeah, sure. I've changed to different networks, so it should be good. That works.
+
+**John Smith | 01:53**  
+Okay, let's see. So last week I was at **Company C**, one of our distributors. They had a customer event, which basically looked at the market situation—inviting a lot of customers. We had nearly fifty customers there, mainly purchasing and a few R&D people.
+
+**Nick Black | 02:17**  
+Okay.
+
+**John Smith | 02:18**  
+And so, **Company B**, but our competitors were also presenting about market situations, stock levels, and all the things important for the overall market relaunch.
+
+**Nick Black | 02:36**  
+Yes.
+
+**John Smith | 02:37**  
+But by intention, they put a second topic on the agenda, which was CRA.
+
+**Nick Black | 02:43**  
+Okay.
+
+**John Smith | 02:44**  
+And meanwhile, even in purchasing, everybody is keen to see how to get help to bring CRA-compliant devices to the market.
+
+**Nick Black | 03:01**  
+Yeah.
+
+**John Smith | 03:02**  
+So it was in close proximity to Dortmund. In our area, we have a lot of industrial automation suppliers like **Company D** and, not **Company F**, but rather **Company E**.
+
+**Nick Black | 03:12**  
+Yeah.
+
+**John Smith | 03:24**  
+They really have a lot of industrial products, and they need help to understand how to manage their long-term development cycles (one and a half years plus certification). They have to start now; they have to make their considerations now—otherwise, they are lost.
+
+**Nick Black | 03:33**  
+Okay.
+
+**John Smith | 03:57**  
+No, it will not work for them. And the security expert from **Company C** gave a short introductory presentation. We used a very simple example of a device that needs to be CRA-compliant: a simple intelligent bulb used in a smart home, connected via WiFi, and switched on/off by a mobile phone. It sounds very simple, but you have to be fully CRA-compliant with that device.
+
+**Nick Black | 04:15**  
+Yes. Yes.  
+Yes. But not so much. Yeah.
+
+**John Smith | 04:41**  
+It's connected to the network, direct internet access—everything. By this, you have to do a complete risk assessment and all that goes with it. It immediately shows that even for seemingly simple devices, you have to take care. Our devices are more connected.
+
+**Nick Black | 05:07**  
+Interesting.
+
+**John Smith | 05:10**  
+And some people say, "I don't have this because I'm not connected." Then you ask them, "Well, how do you make updates in the field?" And they answer, "Over the air." So you say, "And you're not connected? How does that work?"  
+[Laughter]  
+Then they realize, "Okay, yeah, somehow we are connected." [Laughter]
+
+**Nick Black | 05:36**  
+Okay.
+
+**John Smith | 05:36**  
+It's really interesting to see people react and realize, "Now we have a real issue, and we have to start." We see this in all the questions. I have done maybe twelve customer workshops with distributors about security in the last year. We start again next week, in the UK, where **Alex** is presenting.
+
+**Nick Black | 06:08**  
+Hey.
+
+**John Smith | 06:10**  
+So it's an ongoing topic, and it will be one of the hottest topics for me this year.
+
+**Nick Black | 06:16**  
+Okay, so that's very clear. Thank you. You know, what we often see is there are a few phases. There's the first phase of companies panicking a bit, trying to figure out what they need to do. Then there's a lot of reporting and compliance. Then there's the actual software and hardware engineering, where we're mostly involved today. We’re starting to do some consulting on implementation because, of course, CRA is far from specific on what exactly to do.
+
+**John Smith | 06:49**  
+As long as the harmonized standard isn't there, it will be difficult.
+
+**Nick Black | 06:54**  
+Right. But at the same time, as you pointed out, people have to move now. We’re starting to do consulting for customers, explaining that while it’s not explicit about "you must do this," we think this is how it’ll be interpreted. We work with partners on that. So what kind of demand are you seeing? Is it that customers…
+
+**John Smith | 07:14**  
+Well, I already said half a year ago, maybe I'd step out of **Company B** and build a security consultancy. Take a few security experts, and in two years, I'd be a millionaire.
+
+**Nick Black | 07:14**  
+Yeah, what do they want? [Laughter] Yes.
+
+**John Smith | 07:41**  
+Because everyone needs some form of consulting. From my perspective, the questions are not just about managing devices. For example, next week I have a management meeting with a big industrial customer. The primary question on the agenda is, "How do you handle key installation on devices during production?"
+
+**Nick Black | 08:16**  
+Yeah.
+
+**John Smith | 08:17**  
+That question always comes up.
+
+**Nick Black | 08:22**  
+Can't got up.
+
+**John Smith | 08:24**  
+Because they have no idea how they can manage it. They ask what **Company B** does to support this. The device onboarding to the network is the trickiest part for them to implement. We have security on-chip, example programs, and projects showing how to manage encryption/decryption, how to handle keys in the device. But we don’t offer factory programming of keys.
+
+**Nick Black | 09:13**  
+Yeah. Okay.
+
+**John Smith | 09:14**  
+So how to bring the device, at scale, to the market? It’s not like, "I only have five internet-connected devices in my huge machine." We’re talking big volumes.
+
+**Nick Black | 09:19**  
+Yeah.
+
+**John Smith | 09:22**  
+It's not just five devices a year. For example, in two weeks, I’ll visit someone producing about 1.5 million pieces.
+
+**Nick Black | 09:49**  
+Okay, what kind of devices are those?
+
+**John Smith | 09:49**  
+They’re small security devices with emergency switches, needed in all industrial areas. Everywhere you have an emergency switch.
+
+**Nick Black | 09:59**  
+Yeah. Right.
+
+**John Smith | 10:13**  
+No way around it.
+
+**Nick Black | 10:13**  
+Okay, yeah.
+
+**John Smith | 10:13**  
+You just slap it if there's a problem. But these all have to communicate with the overall machinery, so the entire production line can be stopped. It doesn’t help if only the single part shuts off the electricity—then the rest of the line still needs to know to stop. So they must be connected securely.
+
+**Nick Black | 10:44**  
+Okay.
+
+**John Smith | 10:45**  
+And that’s exactly where they need security.
+
+**Nick Black | 10:52**  
+So the big challenge for them is provisioning?
+
+**John Smith | 10:56**  
+Yes, provisioning is the biggest difficulty. They know our devices and different security concepts. The alternative is using a secure element in each device, which might be $1.30 extra per unit.
+
+**Nick Black | 11:16**  
+Yeah, yes, that’s significant.
+
+**John Smith | 11:22**  
+This is a cost-critical application.
+
+**Nick Black | 11:27**  
+Yeah, definitely. So what’s making provisioning so hard?
+
+**John Smith | 11:28**  
+They’re unsure if they can do it themselves in the factory; they have EMS. They wonder how to manage it, how to handle the device keys, etc.
+
+**Nick Black | 11:45**  
+Right, it’s difficult, yeah.
+
+**John Smith | 11:48**  
+They consider, "Do I do this on my own? Do I outsource it?" They don’t know. And that’s the real challenge: to handle devices out in the field, and how to bring them online in a safe, secure way. That’s precisely where **Company A**'s solution fits.
+
+**Nick Black | 12:19**  
+Okay.
+
+**John Smith | 12:25**  
+I think it’s the best approach to handle this.
+
+**Nick Black | 12:29**  
+Yeah, absolutely.
+
+**John Smith | 12:29**  
+It’s so straightforward. You can do it during programming; you prep the device, and once it’s connected, it’s immediately secure. We’ve proven that’s a good solution.
+
+I’ll be offering it as one of the possible solutions. I’m sure we’ll talk about how to manage that with them in the coming months because they’ll want to know about costs—this is a cost-critical matter. That’s just one example. There are many others. This shows how concrete these discussions are. And as I said, it’s on their agenda.
+
+**Nick Black | 13:31**  
+Yes, that’s very promising. So last time, we talked about you wanting us to speak at one of your sales meetings in a few weeks. In my experience, that can be tricky because you need a message that resonates with sales. I’m a bit cautious about giving that kind of talk—speaking to sales folks who might not have context—unless we really know their needs well.
+
+We’re super interested in partnering with you to access these customers, right? You have validated our device, you have the customers, and we have the perfect solution. But giving a big presentation to your sales team might not be the best approach unless we tailor it well. What do you think? What results would we get?
+
+**John Smith | 14:46**  
+To be clear, we have the **Company B Partner Program**. We should first ensure your input there is up to date.
+
+**Nick Black | 14:58**  
+Hey.
+
+**John Smith | 14:58**  
+That’s something we need to work on. For instance, last Monday we had another partner present. We had 81 sales and FAE people attend. They introduced their solution. The reality is, sales teams only promote something if they understand it—if they know the core selling points, how to pitch it, and if the partner is reliable.
+
+**Nick Black | 15:26**  
+Yeah, yeah.
+
+**John Smith | 15:38**  
+And by bringing partners to the sales and FAE people in a short 30-minute session, you effectively give them a marketing pitch. Then they think, "Why not offer this solution to customers?" That’s key because sales is who gets the questions from customers. We don’t have a generic, one-size-fits-all. We ourselves don’t do factory programming of keys, so we need you or an external approach.  
+
+And I’ve had these discussions in our customer workshops with **Company I** and so on. None of them offer factory programming either—unless it’s volumes of 20 or 30 million per year. Otherwise, it doesn’t make sense.
+
+**Nick Black | 16:41**  
+Yeah, yeah.
+
+**John Smith | 16:46**  
+We produce 10 million devices per day. If we tried to do key generation for 30 million on our lines, that alone would cost half a day of production. Not viable.
+
+**Nick Black | 17:13**  
+Got it.
+
+**John Smith | 17:15**  
+Yes.
+
+**Nick Black | 17:15**  
+So, if we did one of these FAE presentations, we’d want to put a lot of effort into making it high-impact. Could we do a couple of sessions with you beforehand to be sure we understand what your sales people really need?
+
+**John Smith | 17:37**  
+Yeah.
+
+**Nick Black | 17:38**  
+Yeah?
+
+**John Smith | 17:39**  
+And the most important thing is to explain it in plain language—like you’d explain it to a family member who’s in accounting, not electronics. Because that’s the level the sales team will need. I’ve been constantly training them on security basics, CRA, quizzes, etc. We’ll do another session before Embedded World because we expect a lot of customer questions. We want them prepared, or else they’ll just say, "I don’t know," which doesn’t help anyone.
+
+**Nick Black | 18:37**  
+Exactly.
+
+**John Smith | 18:40**  
+Neither you nor we benefit if they can’t confidently discuss it. We want to sell secure-capable devices, and you sell the service that customers clearly need. From my perspective, either they outsource key programming—which is rare and expensive—or they adopt a solution like **Product A**. Or they build everything themselves, which is even more expensive and often unfeasible in the given timeframe.
+
+**Nick Black | 19:50**  
+It sounds like the biggest missing component is provisioning.
+
+**John Smith | 19:55**  
+Yes, that’s almost always the first question.
+
+**Nick Black | 19:58**  
+Right. What about firmware-over-the-air updates and secure boot?
+
+**John Smith | 20:11**  
+We have example projects that do that. Customers can adapt them.
+
+**Nick Black | 20:14**  
+Right, okay.
+
+**John Smith | 20:18**  
+We can’t do it for everyone, obviously, but we provide a good starter example.
+
+**Nick Black | 20:20**  
+And a trusted one.
+
+**John Smith | 20:28**  
+Yes. They can download from GitHub—an application note and code. It’s quite detailed on how to do it on our device.
+
+**Nick Black | 20:35**  
+Sure, the provisioning though…
+
+**John Smith | 20:45**  
+Exactly. For secure boot or a secure firmware update, you need a secure connection. And that means you need to identify your network partner. You must know your communication partner is genuine. You only get that with correct provisioning. Then the question is, "How do I get there—what about key exchange?" That’s exactly where you come in.
+
+**Nick Black | 21:25**  
+And it sounds like they might need help with firmware-over-the-air and secure boot, too.
+
+**John Smith | 21:32**  
+No doubt about it.
+
+**Nick Black | 21:33**  
+Yeah.
+
+**John Smith | 21:34**  
+They’d love support. If you can provide it, all the better. That’s what we worked on last year with **Company G**—creating a comprehensive software solution as an example. It shows how to implement everything using **Product A** for a secure IoT connection.
+
+**Nick Black | 22:10**  
+That’s the technical side. Commercially, what kind of unit volumes do your sales folks handle?
+
+**John Smith | 22:20**  
+It goes from a few thousand a year with distributor accounts up to tens of millions of units a year.
+
+**Nick Black | 22:30**  
+Big range, yeah.
+
+**John Smith | 22:31**  
+Yes, everything. Basically, we split them into direct accounts—where our sales and FAEs are closely involved—and distribution accounts, where we support the distributor but don’t engage on every single project.
+
+**Nick Black | 22:55**  
+Yeah.
+
+**John Smith | 22:55**  
+So that group of 80 people I mentioned last Monday—those are mostly direct-sales teams who directly handle customer queries.
+
+**Nick Black | 23:27**  
+Makes sense. Those customers you mentioned—what do you see them wanting in 2025? Are they looking to solidify a design or run a proof of concept?
+
+**John Smith | 23:38**  
+They want a firm concept, and most will start developing in 2025.
+
+**Nick Black | 23:39**  
+Right. So they’re at the architecture stage?
+
+**John Smith | 23:47**  
+Yes, exactly. I see two types: those who already use **Company B** devices with built-in security (maybe they haven’t used that security yet) but at least they know it; and the others who say, "I must implement security—who in the market does it best?" Our competitors might offer special device families or external secure elements, so cost competitiveness is huge.
+
+**Nick Black | 24:55**  
+Yes, exactly.
+
+**John Smith | 24:56**  
+Right.
+
+**Nick Black | 24:58**  
+That’s very helpful. So I think the next step: I’d like to create a draft outline—maybe five to ten slides—to show the key messages for a possible sales presentation. I’ll send it to you to review, then I’ll build out slides based on your feedback.
+
+**John Smith | 25:20**  
+Okay.
+
+**Nick Black | 25:23**  
+Once it’s ready, I think we should not rush. Doing it on the 17th might be too soon. We can pick a date, maybe in March, if that’s still an option?
+
+**John Smith | 25:43**  
+Well, that March slot is taken, but I can shuffle some things. Shouldn’t be a big problem.
+
+**Nick Black | 25:53**  
+Alright, great. I’ll follow up with an email. In summary: we’ll do a quick one-pager, a market review, and a short deck for that talk. Meanwhile, if any of your customers need help right away—architecture consulting, CRA compliance, or implementing solutions—we’re ready to engage.
+
+**John Smith | 26:35**  
+Sure. Do me a favor and send me a two-slide summary that I can use in two weeks when I meet a customer. That would really help.
+
+**Nick Black | 26:51**  
+Okay, yeah. A provisioning-focused overview, highlighting what we’ve done.
+
+**John Smith | 26:59**  
+Yes, just a teaser—really short, not too detailed, just a couple of slides.
+
+**Nick Black | 27:10**  
+Got it. I can keep it to seven or under, but I’ll aim for two.
+
+**John Smith | 27:19**  
+Perfect. That way, I can show how to do provisioning via external partners. For example, **Company H** is another reference I can give. 
+
+**Nick Black | 27:30**  
+Alright, John. It was great catching up. I’ll send you a quick email with next steps. Then we’ll figure out when to schedule the sales presentation. I’ll get that draft to you next week.
+
+**John Smith | 27:52**  
+Okay, that works for me. Good.
+
+**Nick Black | 27:55**  
+Thanks a lot. Have a good afternoon. Appreciate you taking the time.
+
+**John Smith | 27:58**  
+Same to you.
+
+**Nick Black | 28:00**  
+Bye.
